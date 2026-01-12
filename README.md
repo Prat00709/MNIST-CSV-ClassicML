@@ -22,11 +22,11 @@ The workflow includes:
 -----------------------------------------------------------------------
 2) Dataset
 -----------------------------------------------------------------------
-Dataset used: MNIST in CSV format
+Dataset used: MNIST in CSV format (dataset link :- https://www.kaggle.com/datasets/oddrationale/mnist-in-csv)
 Files:
 - mnist_train.csv
 - mnist_test.csv
-(dataset link :- https://www.kaggle.com/datasets/oddrationale/mnist-in-csv)
+
 Each row contains:
 - label (digit class: 0-9)
 - pixel0 ... pixel783 (grayscale pixel values in range 0-255)
